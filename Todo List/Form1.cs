@@ -65,7 +65,7 @@ namespace Todo_List
             }
             taskField.Text = "";
             descField.Text = "";
-            isEditing = false;
+            isEditing = false; 
         }
     }
 }

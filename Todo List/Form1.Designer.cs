@@ -94,7 +94,7 @@
             Add.Name = "Add";
             Add.Size = new Size(141, 70);
             Add.TabIndex = 5;
-            Add.Text = "Add";
+            Add.Text = "New";
             Add.UseVisualStyleBackColor = true;
             Add.Click += Add_Click;
             // 
